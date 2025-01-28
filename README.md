@@ -1,8 +1,46 @@
-# React + Vite
+# React Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+1. **Toggle Page:** A simple toggle functionality that allows users to switch between color theme.
 
-Currently, two official plugins are available:
+2. **Form Page:** A fully functional form handling and validation system implemented without using any external libraries. Includes features like input validation, error handling, and dynamic feedback for user inputs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. **Todo List Page:** A complete CRUD (Create, Read, Update, Delete) functionality for managing a to-do list. Allows users to add, edit, delete, and view their tasks efficiently.
+
+4. **Responsive Design:** A clean and modern user interface designed with Material-UI, ensuring responsiveness across all devices.
+
+<hr>
+
+## 🛠 Technologies Used
+- **React.js:** Frontend framework for building dynamic user interfaces.
+- **Material-UI:** UI library for creating responsive and visually appealing components.
+
+
+# Getting Started
+## 🚀Installation
+- Clone the repository and navigate to the project directory:
+```
+git clone https://github.com/SOURABH2809/React-Task1
+cd React-Task1
+```
+
+**Install Dependencies**
+- Run the following command in the terminal:
+```
+npm install
+```
+
+
+**Run the Project**
+- Start the Application by running:
+```
+npm run dev
+```
+
+**Access the application**
+- Open http://localhost:5173 in your browser to access the application.
+
+<hr>
+<p align="center">
+Developed with ❤️ by Sourabh Gautam
+</p>
